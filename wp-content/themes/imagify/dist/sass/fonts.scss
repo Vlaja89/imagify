@@ -1,0 +1,57 @@
+/**** Brandon Grotesque Fonts ****/
+@font-face {
+    font-family: 'BrandonGrotesque-Black';
+    src: url("../fonts/BrandonGrotesque-Black.woff") format("woff"), url("../fonts/BrandonGrotesque-Black.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+    
+@font-face {
+    font-family: 'BrandonGrotesque-Bold';
+    src: url("../fonts/BrandonGrotesque-Bold.woff") format("woff"), url("../fonts/BrandonGrotesque-Bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+    
+@font-face {
+    font-family: 'BrandonGrotesque-Medium';
+    src: url("../fonts/BrandonGrotesque-Medium.woff") format("woff"), url("../fonts/BrandonGrotesque-Medium.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+    
+@font-face {
+    font-family: 'BrandonGrotesque-Regular';
+    src: url("../fonts/BrandonGrotesque-Regular.woff") format("woff"), url("../fonts/BrandonGrotesque-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+    
+/**** Font Family ****/
+$font-bg-black: 'BrandonGrotesque-Black';
+$font-bg-bold: 'BrandonGrotesque-Bold';
+$font-bg-medium: 'BrandonGrotesque-Medium';
+$font-bg-regular: 'BrandonGrotesque-Regular';
+
+
+
+/**** Source Sans Pro Fonts ****/
+@font-face {
+    font-family: 'SourceSansPro-Bold';
+    src: url("../fonts/SourceSansPro-Bold.woff") format("woff"), url("../fonts/BrandonGrotesque-Bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+    
+@font-face {
+    font-family: 'SourceSansPro-SemiBold';
+    src: url("../fonts/SourceSansPro-SemiBold.woff") format("woff"), url("../fonts/SourceSansPro-SemiBold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+    
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url("../fonts/SourceSansPro-Regular.woff") format("woff"), url("../fonts/SourceSansPro-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal; }
+    
+/**** Font Family ****/
+$font-ssp-bold: 'SourceSansPro-Bold';
+$font-ssp-semibold: 'SourceSansPro-SemiBold';
+$font-ssp-regular: 'SourceSansPro-Regular';
+
